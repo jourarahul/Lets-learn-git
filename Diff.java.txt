@@ -1,5 +1,6 @@
 public int(int a,int b)
 {
-	return a-b;
 	sop("hello");
+	sop("world");
+	return a-b;
 }
