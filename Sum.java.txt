@@ -1,5 +1,5 @@
-public int(int a,int b)
+public int(int c,int d)
 {
-	return a+b;
+	return c+d;
 	sop("hello");
 }
